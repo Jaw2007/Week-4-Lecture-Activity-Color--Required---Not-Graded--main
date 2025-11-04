@@ -1,5 +1,12 @@
 li:first-child {
-    color: red;
+    color: rgb(255, 41, 41);
     font-family:impact;
     font-size: 40px;
 }
+a {color: brown;}
+a:hover {color: blue;}
+header {background-color: bisque; color: blue;}
+nav {color: green;}
+button {background-color: black; color: white;}
+button:hover {color: brown;}
+p {color: white; background-color: black;}
